@@ -1,0 +1,15 @@
+Connection: Close
+Content-Length: 12584
+Content-Type: text/html
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT
+Access-Control-Allow-Origin: yastatic.net
+Client-Date: Tue, 07 Nov 2023 23:25:47 GMT
+Client-Peer: 5.255.255.242:80
+Client-Response-Num: 1
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Set-Cookie: _yasc=aeElotioejG9ynKfroa5/L8GfV6y2aDoQBTYj+GpqPXSC1m32Fn7zi5/JW8LXjZiIPo=; domain=.ya.ru; path=/; expires=Fri, 04 Nov 2033 23:25:47 GMT; secure
+X-Content-Type-Options: nosniff
+X-Yandex-Captcha: captcha
+X-Yandex-EU-Request: 0
+X-Yandex-Req-Id: 1699399547489861-2581729412594965682-balancer-l7leveler-kubr-yp-vla-106-BAL

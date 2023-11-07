@@ -1,0 +1,33 @@
+Connection: Close
+Content-Length: 12592
+Content-Type: text/html
+Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA, Sec-CH-UA-Full-Version-List, Sec-CH-UA-WoW64, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Platform, Sec-CH-UA-Full-Version, Viewport-Width, DPR, Device-Memory, RTT, Downlink, ECT
+Access-Control-Allow-Origin: yastatic.net
+Client-Date: Tue, 07 Nov 2023 23:25:47 GMT
+Client-Peer: 77.88.55.242:443
+Client-Response-Num: 1
+Client-SSL-Cert-Issuer: /C=BE/O=GlobalSign nv-sa/CN=GlobalSign ECC OV SSL CA 2018
+Client-SSL-Cert-Subject: /C=RU/ST=Moscow/L=Moscow/O=Yandex LLC/CN=*.xn--d1acpjx3f.xn--p1ai
+Client-SSL-Cipher: TLS_AES_256_GCM_SHA384
+Client-SSL-Socket-Class: IO::Socket::SSL
+Client-SSL-Version: TLSv1_3
+Link: <https://yastatic.net/s3/home-static/_/a6/a6a296b741b51880ae8a9b04a67cfe3f.png>; rel="icon"; sizes="16x16"
+Link: <https://yastatic.net/s3/home-static/_/f4/f47b1b3d8194c36ce660324ab55a04fe.png>; rel="icon"; sizes="32x32"
+Link: <https://yastatic.net/s3/home-static/_/f0/f0597b6727cc67dceebc4e3a87caf571.png>; rel="icon"; sizes="192x192"
+Link: <https://yastatic.net/s3/home-static/_/a7/a79b81aa025e9edb2244e38581c868ad.png>; rel="apple-touch-icon"; sizes="152x152"
+Link: <https://yastatic.net/s3/home-static/_/46/462e92b9e3792be37a1c3fdefb26af28.png>; rel="apple-touch-icon"; sizes="180x180"
+Link: </captcha_smart.790ffda6ad97b5a4892a.min.css?k=1696933584984>; rel="stylesheet"
+NEL: {"report_to": "network-errors", "max_age": 100, "success_fraction": 0.001, "failure_fraction": 0.1}
+Report-To: { "group": "network-errors", "max_age": 100, "endpoints": [{"url": "https://dr.yandex.net/nel", "priority": 1}, {"url": "https://dr2.yandex.net/nel", "priority": 2}]}
+Set-Cookie: _yasc=IpnYG5TdnX4AfiIbkEWOVzcQYWD1lDgO+evLqzRalKzkAjuejqQKltUOTrxSVybJ16c=; domain=.ya.ru; path=/; expires=Fri, 04 Nov 2033 23:25:47 GMT; secure
+Set-Cookie: i=dWNLvE5vtFf/61/dtspqNeypDXfdtdmsEupmthywJs9a1hXJZ5HlcPFtNB7yj+vBEM2bwXM0FRHmd8LtnjYVoGlq5dg=; Expires=Thu, 06-Nov-2025 23:25:47 GMT; Domain=.ya.ru; Path=/; Secure; HttpOnly
+Set-Cookie: yandexuid=1557422541699399547; Expires=Thu, 06-Nov-2025 23:25:47 GMT; Domain=.ya.ru; Path=/; Secure
+Set-Cookie: yashr=7751760501699399547; Path=/; Domain=.ya.ru; Expires=Wed, 06 Nov 2024 23:25:47 GMT; Secure; HttpOnly
+Title: Ой!
+X-Content-Type-Options: nosniff
+X-Meta-Charset: utf-8
+X-Meta-Viewport: width=device-width,initial-scale=1
+X-UA-Compatible: IE=edge
+X-Yandex-Captcha: captcha
+X-Yandex-EU-Request: 0
+X-Yandex-Req-Id: 1699399547336034-6622375127455742254-balancer-l7leveler-kubr-yp-sas-39-BAL
